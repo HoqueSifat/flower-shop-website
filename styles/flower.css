@@ -207,3 +207,31 @@ body {
     height: 50px;
     padding-right: 20px;
 }
+
+.footer {
+    background-color: #111010;
+    text-align: center;
+    padding: 65px;
+}
+
+.footer-head {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-para {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-copy {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+.shop-color{
+    color: #FFFFFF;
+}
